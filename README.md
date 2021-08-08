@@ -7,5 +7,5 @@ Just save the file, and compile using an IDE to get a executable.
 #### To listen use-
  
 nc.exe -lvp 5555                   <- For Windows    
-nc -lvp 5555                       <- For Linux
+nc -lvp 5555                       <- For Linux  
 
